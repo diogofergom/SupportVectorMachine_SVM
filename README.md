@@ -1,2 +1,2 @@
-# SupportVectorMachine_SVN
+# SupportVectorMachine_SVM
  
